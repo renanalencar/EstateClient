@@ -38,7 +38,7 @@ public interface DAO<K, V> {
     * The address of the host that we must use, whenever we are testing the client
     * and server applications on the same machine.
     */
-   String HOST = "172.31.19.46";
+   String HOST = "localhost";
 
    /**
     * Returns a value, given a key.
