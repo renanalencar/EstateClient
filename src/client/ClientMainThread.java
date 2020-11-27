@@ -2,7 +2,7 @@ package client;
 
 import br.com.renanalencar.moreaqui.Estate;
 
-public class App {
+public class ClientMainThread {
     public static void main(String[] args) throws Exception {
     	// declara e inicializa um objeto do tipo Estate
         Estate estate = new Estate("Casa", "Grande", "81999999999", "Em Construção");
